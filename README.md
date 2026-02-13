@@ -2,8 +2,6 @@
 
 DRAW-py is a Python-based game inspired by games like "Flappy Bird" and "Draw Your Game". This project was created in the CMU CS Academy browser and adapted to run on the desktop.
 
-In this pr
-
 ## Features
 
 - Added DeltaTime functions not native to the CMU Library
